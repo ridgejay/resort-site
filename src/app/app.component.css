@@ -1,0 +1,261 @@
+#home {
+  background-image: url("../assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+  width: 100%;
+  background-position: center;
+}
+
+.home {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../assets/img/travel.gif");
+  border-radius: 20px;
+  border: solid;
+  text-align: center;
+}
+
+.home-btn a {
+  color: white;
+}
+
+#water {
+  background-image: url("../assets/img/underwater.jpg");
+  background-size: cover;
+  z-index: 2;
+  height: 50vh;
+  width: 100%;
+  background-position: center;
+}
+
+.home-btn :hover {
+  color: lightblue;
+  text-decoration: none;
+}
+
+hr {
+  width: 100%;
+  padding: 2px;
+  background-color: lightblue;
+}
+
+.bora {
+  color: white;
+  font-size: 55px;
+  display: inline-block;
+  top: 75%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.viva {
+  color: white;
+  font-size: 55px;
+  position: relative;
+  text-align: center;
+  float: right;
+  font-weight: bold;
+}
+
+.home-card {
+  margin-top: 20px;
+  background: transparent;
+  border: none;
+  flex-wrap: wrap;
+  color: white;
+  font-style: italic;
+}
+
+.cite {
+  color: white;
+}
+
+.para {
+  background-image: url("../assets/img/para.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.book {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: black 10px;
+  margin: auto;
+}
+
+.wave {
+  position: absolute;
+  display: inline-block;
+  left: 60%;
+  top: 123%;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.book-lead {
+  color: white;
+  font-weight: 200;
+  text-align: center;
+}
+
+.gallery {
+  text-align: center;
+  background-image: url("../assets/img/caro2.jpg");
+  background-position: bottom;
+  color: white;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.dine-title {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.dining {
+  background-image: url("../assets/img/dining.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+
+.dine-p {
+  color: white;
+  text-align: center;
+}
+
+.slide {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.p-slide {
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.activities {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.activities:hover {
+  color: lightblue;
+  background-color: white;
+}
+
+.card-text {
+  color: white;
+}
+
+.sail {
+  background-image: url("../assets/img/sail.jpg");
+  background-position: center;
+}
+
+.card-title {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.snorkel {
+  background-image: url("../assets/img/snorkeling.jpg");
+  background-position: center;
+}
+
+.tour {
+  background-image: url("../assets/img/tour.jpg");
+  background-position: center;
+}
+
+.boragif {
+  background-image: url("../assets/img/bora.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.boratext {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.scuba {
+  background-image: url("../assets/img/scuba.jpg");
+  background-position: center;
+  margin-top: 10px;
+}
+
+.lagoon {
+  background-image: url("../assets/img/lagoon.jpg");
+  background-position: center;
+  margin-top: 10px;
+}
+
+.bar {
+  background-image: url("../assets/img/bar.jpg");
+  background-position: center;
+  margin-top: 10px;
+}
+
+.comfort {
+  background-image: url("../assets/img/roombanner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.comfort-text {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.room-text {
+  text-align: center;
+  font-size: 16px;
+}
+
+.room-p {
+  text-align: center;
+  font-size: 10px;
+}
+
+.left {
+  background-image: url("../assets/img/room4.jpg");
+  background-position: center;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.right {
+  background-image: url("../assets/img/room5.jpg");
+  background-position: center;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hotel {
+  background-image: url("../assets/img/view.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hotel-text {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
